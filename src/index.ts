@@ -3,4 +3,4 @@
  * @author 双越老师
  */
 
-import "./continous-char";
+import "./format-number";
